@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kramdar93.
+- 👀 I’m interested in Game Development, Simulation and AI.
+- 🌱 I’m currently learning Godot, oil painting in VR and other random stuff.
+- 💞️ I’m looking to collaborate on projects that don't require _another_ full-time commitment.  
+- 📫 How to reach me: kramdar@plegnicpixels.games
